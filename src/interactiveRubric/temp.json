@@ -1,0 +1,198 @@
+{
+    "rubrics": [
+        {
+            "name": "Program",
+            "weight" : 0.5,
+            "rows": [
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Program",
+                    "weight" : 1.0
+                }
+            ]
+        },
+        {
+            "name": "Report",
+            "weight" : 0.5,
+            "rows": [
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Introduction",
+                    "weight" : 1.0
+                },
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Algorithm",
+                    "weight" : 1.0
+                },
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Methodology",
+                    "weight" : 1.0
+                },
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Results",
+                    "weight" : 1.0
+                },
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Conclusion",
+                    "weight" : 1.0
+                },
+                {
+                    "cols": [
+                        {
+                            "body": "",
+                            "heading": "D Range (40 - 49.99)",
+                            "subHeading": "Poor"
+                        },
+                        {
+                            "body": "",
+                            "heading": "C Range (50 - 64.99)",
+                            "subHeading": "Adequate"
+                        },
+                        {
+                            "body": "",
+                            "heading": "B Range (65 - 79.99)",
+                            "subHeading": "Good"
+                        },
+                        {
+                            "body": "",
+                            "heading": "A Range (80 - 100.00)",
+                            "subHeading": "Excellent"
+                        }
+                    ],
+                    "name": "Presentation",
+                    "weight" : 1.0
+                }
+            ]
+        }
+    ]
+}
